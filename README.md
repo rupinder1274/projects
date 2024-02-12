@@ -1,2 +1,2 @@
 # projects
-this is my first git by rupinder
+this is my first git by 
